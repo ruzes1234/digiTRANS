@@ -2,6 +2,6 @@
 Application de covoiturage
 
 <br>
-<img src="http://www.digitrans.technchange.net/media/assets/images/icon_digitrans-01.png" title="digiTRANS"/>
+<img src="http://www.digitrans.technchange.net/media/logos/digiTRANS-Logo-Vers-Originale.png" title="digiTRANS"/>
 <br>
 
